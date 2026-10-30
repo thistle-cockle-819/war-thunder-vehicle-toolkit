@@ -1,0 +1,22 @@
+{
+  "name": "war-thunder-vehicle-toolkit",
+  "displayName": "War Thunder Vehicle Toolkit",
+  "programType": "vehicle-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Vehicle categories",
+    "Loadout notes",
+    "Session records"
+  ],
+  "topics": [
+    "war-thunder-vehicle-toolkit",
+    "war-thunder-tools",
+    "war-thunder-menu",
+    "war-thunder-settings",
+    "war-thunder-configs",
+    "war-thunder-vehicle-categories",
+    "war-thunder-loadout-notes"
+  ]
+}
